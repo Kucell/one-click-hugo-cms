@@ -1,4 +1,20 @@
 ---
 label: first write
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+  description: 文字
+- name: article
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: article
+  description: 文章
