@@ -1,6 +1,5 @@
 +++
 article = ""
-draft = true
 text = ""
 
 +++
