@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: article
   description: 文章
+pages:
+- content/temp.md
